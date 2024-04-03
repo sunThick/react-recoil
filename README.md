@@ -1,1 +1,1 @@
-# react-recoil
+# react勉強用リポジトリ
